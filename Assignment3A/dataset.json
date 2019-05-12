@@ -66868,20 +66868,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Price to nearest 200": 400.0,
-        "District": "Nørrebro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.543957055984954,
-          55.69390360552175
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Price to nearest 200": 600.0,
         "District": "Nørrebro"
       },
@@ -89094,20 +89080,6 @@
         "coordinates": [
           12.54568321569409,
           55.67003857652434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Price to nearest 200": 200.0,
-        "District": "Vesterbro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.556214528813376,
-          55.670267871395254
         ]
       }
     },
@@ -133156,7 +133128,7 @@
       }
     }
   ],
-  "totalFeatures": 9511,
+  "totalFeatures": 9509,
   "crs": {
     "type": "airbnb",
     "properties": {
